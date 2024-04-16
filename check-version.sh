@@ -46,8 +46,8 @@ check_version() {
 
 # List of components to check
 components=(
-    "Docker,docker version"
-    "Firewalld,firewall-cmd --version"
+    "Docker,sudo docker version"
+    "Firewalld,sudo firewall-cmd --version"
     "Git,git version"
     "Network Manager,nmcli -v"
     "Nginx,nginx -v"
