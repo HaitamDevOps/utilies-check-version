@@ -30,7 +30,7 @@ Ensure you have a Linux operating system with bash and Python installed. Specifi
 To use the scripts in this repository, first clone the repo on your Linux machine:
 
 ```bash
-git clone [https://github.com/DevOps/utilities-check-version.git](https://github.com/HaitamDevOps/utilies-check-version.git)
+git clone https://github.com/DevOps/utilities-check-version.git
 ```
 
 Navigate to the cloned directory:
